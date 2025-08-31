@@ -11,4 +11,9 @@
 var myVar = "Hello, world!";
 ```
 
+# Here is a to do list
+- [ ] Create a startup
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
